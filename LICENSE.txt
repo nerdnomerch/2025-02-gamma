@@ -1,0 +1,34 @@
+Business Source License 1.1
+
+Licensor: Gamma Strategies
+
+Licensed Work: PerpetualVault.sol
+
+Additional Use Grant: You may make use of the Licensed Work provided that you comply with the terms of this License.
+
+Change Date: [Change Date, e.g., 2028-01-01]
+
+Change License: [Open Source License, e.g., Apache 2.0]
+
+Terms
+
+The Licensor hereby grants you the right to copy, modify, create derivative works, publicly perform, publicly display, use, and distribute the Licensed Work, subject to the following conditions:
+
+- You may use the Licensed Work for any purpose except as prohibited by this License.
+- You may distribute and sublicense the Licensed Work under the terms of this License.
+
+Commercial Use
+
+This License does not grant you the right to use the Licensed Work for commercial purposes, except as allowed by the Additional Use Grant.
+
+Change Date
+
+On the Change Date, the Licensed Work will be made available to you under the terms of the Change License.
+
+Change License
+
+The Change License is the [Open Source License, e.g., Apache 2.0], as published by the [Open Source Initiative].
+
+Disclaimer
+
+THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.

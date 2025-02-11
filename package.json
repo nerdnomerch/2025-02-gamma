@@ -1,0 +1,38 @@
+{
+  "name": "hardhat-project",
+  "scripts": {
+    "test": "forge test --mp test/PerpetualVault.t.sol --via-ir --rpc-url arbitrum -vvv",
+    "coverage": "forge coverage --rpc-url arbitrum",
+    "test-local": "forge test --mp  test/fuzzing/echidna/FoundryPlayground.sol"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.0",
+    "@nomicfoundation/hardhat-foundry": "^1.1.2",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
+    "@typechain/ethers-v5": "^10.1.0",
+    "@typechain/hardhat": "^6.1.2",
+    "@types/chai": "^4.2.0",
+    "@types/mocha": "^10.0.6",
+    "chai": "^4.2.0",
+    "dotenv": "^16.4.1",
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.5",
+    "hardhat-gas-reporter": "^1.0.8",
+    "solidity-coverage": "^0.8.1",
+    "ts-node": "^10.9.2",
+    "typechain": "^8.1.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^1.2.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "4.9.3",
+    "@openzeppelin/contracts-upgradeable": "4.8.3",
+    "@openzeppelin/hardhat-upgrades": "^3.0.2",
+    "hardhat-contract-sizer": "^2.10.0",
+    "prb-math": "^2.4.3"
+  }
+}
