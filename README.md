@@ -250,5 +250,6 @@ Second, run the test files.
 
 - Also the protocol only allows one action to be processed at a time and depending on the action and circumstances each execution can take up to minutes to be finalized.  A malicious actor could intentionally create many positions and start triggering withdrawals from each account to DoS the protocol.  This type of issue would not be considered an issue for the purposes of this audit.
 
+- Issues found in the previous Guardian audit: [Gamma_GMXV2_Vault_Report.pdf](https://github.com/user-attachments/files/18756238/Gamma_GMXV2_Vault_Report.pdf)
 
 [//]: # (known-issues-close)
