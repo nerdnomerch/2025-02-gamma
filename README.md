@@ -10,7 +10,7 @@
 - Starts: February 11, 2025 Noon UTC
 - Ends: February 25, 2025 Noon UTC
 
-- nSLOC: TBD
+- nSLOC: 1910
 
 [//]: # (contest-details-open)
 
